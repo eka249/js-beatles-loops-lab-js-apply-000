@@ -28,7 +28,6 @@ return unoriginalfacts}
 num= 7
 function iLoveTheBeatles(num){
   var array=[]
-      //if(num<15){
         do{
       array.push("I love the Beatles!");
       num ++;
@@ -37,4 +36,3 @@ function iLoveTheBeatles(num){
   while (num<15)
 return array
 }
-//}
